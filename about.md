@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm your friendly, neighbourhood dev.
+And a superhero by night.
 
 ### More Information
 
