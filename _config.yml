@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook: facebook.com/casadelkondas
+  facebook: casadelkondas
   flickr:
-  github: github.com/youshy 
-  instagram: instagram.com/arturkondas
-  linkedin: linkedin.com/in/arturkondas
+  github: youshy 
+  instagram: arturkondas
+  linkedin: arturkondas
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: twitter.com.arturkondas
+  twitter: arturkondas
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
