@@ -3,7 +3,7 @@ layout: post
 title: Do stuff for fun
 ---
 
-# Well, we all have to start somewhere.
+## Well, we all have to start somewhere.
 
 If you read any, literally any blog post or Medium article about "How to be a super coder and earn TONS OF MONEY FAST", everyone will say
 
