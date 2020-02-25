@@ -3,8 +3,6 @@ layout: post
 title: Tales of Docker and Go Part I
 ---
 
-# Tales of Docker and Go Part I: Private Repo?
-
 Yes, yes, I know, this is not a proper blog if I don't post often. But hey, that's the name of the game, when you're working on fun stuff!
 
 Talking about fun stuff - have you ever tried to dockerize your Go app? Probably it's easy, there's a ton of Medium posts on how to do that. But what to do when **one of your packages is behind the private organisation**?
