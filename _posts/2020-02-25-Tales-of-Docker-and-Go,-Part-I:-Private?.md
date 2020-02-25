@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Tales of Docker and Go, Part I: Private?
+title: Tales of Docker and Go Part I
 ---
+
+# Tales of Docker and Go Part I: Private Repo?
 
 Yes, yes, I know, this is not a proper blog if I don't post often. But hey, that's the name of the game, when you're working on fun stuff!
 
