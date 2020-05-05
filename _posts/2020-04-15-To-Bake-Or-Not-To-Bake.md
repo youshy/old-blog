@@ -144,6 +144,6 @@ Will this code change my baking game? Probably yes!
 
 ## Can I use that?
 
-Of course you can - go to my github [HERE](https://github.com/youshy/get-me-my-flour). All input and ideas and stars are more than welcome!
+Of course you can - go to my github [HERE](https://github.com/youshy/bready-steady-go). All input and ideas and stars are more than welcome!
 
 Hope to see you all when the world goes back to having bread flour in every shop! Meanwhile, stay safe, stay strong, [stay the fuck home!](https://staythefuckhome.com/)
