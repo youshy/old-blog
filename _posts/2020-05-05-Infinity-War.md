@@ -38,7 +38,7 @@ My endgame is rather simple - I would love to make the quarantine life a new cha
 
 I know, that a lot of people don't feel the same way as I do - they miss their friends, the office, the commute, everything from "the old world". And I do miss a very few things from the old world too. But, I hope, that the new world will be way more compassionate, way more caring and way more rewarding in our day-to-day lives. Because this is what we want to do at the very end, to be happy.
 
-
+---
 
 This post is very personal, as it gives you a lot of insights inta my daily life and how I cope with the current situation. If you don't feel like getting a hang of it all and having a rather tough time getting through - hit me up, I will be always happy to hear you out! As one of the movies of my adolescence sang: "We're all in this together; once we know, that we are, we're all stars and we see that!"
 
