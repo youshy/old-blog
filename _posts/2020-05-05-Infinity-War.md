@@ -9,7 +9,7 @@ The world has changed a lot in 2020 - but we all know that. The reason why I'm w
 
 ## Food... Oh my god, foooooood!
 
-I cook twice per day, every day, for the last 3 months (apart from literally one meal when I've ordered Pizza Hut due to migraine I had); I send all the pics to my friends (YKWYA!, to my parents; I tweak, test new things and write small CLIs to help me with cooking. If you don't know what I'm talking about, check [this](https://youshy.github.io/To-Bake-Or-Not-To-Bake/) post from almost a month ago - since then, my small flour supply grew from 3kgs to astonishing 40kgs!
+I cook twice per day, every day, for the last 3 months (apart from literally one meal when I've ordered Pizza Hut due to migraine I had); I send all the pics to my friends (YKWYA!), to my parents; I tweak, test new things and write small CLIs to help me with cooking. If you don't know what I'm talking about, check [this](https://youshy.github.io/To-Bake-Or-Not-To-Bake/) post from almost a month ago - since then, my small flour supply grew from 3kgs to astonishing 40kgs!
 
 And yes, I make bread every other day; I bake small buns, I test recipes and learn something new every day. Also, I can't see myself eating refried food from a box in the nearest future - honestly, I feel like I'm 12 again and eating breakfast before school, it's a marvellous feeling! 
 
@@ -28,13 +28,13 @@ If it sounds like bragging to you, I'm not surprised. But that's not the point h
 
 ## Mental Health
 
-Not having to use the tube every day, not spending 2hrs+ on commute every day, not eating reheated food every day changes everythign.
+Not having to use the tube every day, not spending 2hrs+ on commute every day, not eating reheated food every day changes everything.
 
 I'm getting a lot of sun every day (by sitting at the rooftop!), I'm eating fresh food every day, I'm spending a lot of time with my loved ones (either calling or just chatting with), I'm waking up without an alarm clock every day and going to sleep without prepping my backpack to go the next day, I'm getting some workouts done if I feel like it.
 
 I'm working in my pyjamas, in my sweatpants - heck, in my bathrobe sometimes!
 
-The thing that I feel people don't see is that this is, sadly, the only time in our lifetimes when we are be able to take care of ourselves. I know, that you're scared of the C word - as am I. What I've done to not to feel so down - I don't read the news more than once a week; I get my news from my trusted friends (again, YKWYA!) and I read a lot of memes. That helps a lot, really.
+The thing that I feel people don't see is that this is, sadly, the only time in our lifetimes when we are be able to take care of ourselves to such extend, literally being able to live every minute of our days the way we want. I know, that you're scared of the C word - as am I. What I've done to not to feel so down - I don't read the news more than once a week; I get my news from my trusted friends (again, YKWYA!) and I read a lot of memes. That helps a lot, really.
 
 ## Endgame?
 
