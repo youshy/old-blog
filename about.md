@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm your friendly, neighbourhood dev.
-And a superhero by night.
+??? developer (mostly Golang tho), musician, powerlifter, food junkie, teacher, amateur craftsman & baker, human.
+
+All posts are my personal views, not to be associated with my current employeer.
 
 ### Contact me
 
