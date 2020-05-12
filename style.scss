@@ -280,6 +280,10 @@ nav {
 .dated {
   color: #ffa2004d;
   margin: 0 0 0 auto;
+
+  @include mobile {
+    display: none;
+  }
 }
 
 .wrapper-footer {
