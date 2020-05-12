@@ -11,6 +11,7 @@ All pics are clickable and will take you places!
 ## Tap3s
 
 [Spotify](https://open.spotify.com/artist/11snR6DNci1YazNpAzJzSF?si=1V2DFuoIQ7KOztun5ENDMg) 
+
 [Bandcamp](https://tap3s.bandcamp.com/)
 
 [![Tap3s - PS4](http://img.youtube.com/vi/xW_buHhVFqw/0.jpg)](http://www.youtube.com/watch?v=xW_buHhVFqw "Tap3s - PS4")
