@@ -74,6 +74,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $purple;
+    transition: 0.3s
   }
 }
 
