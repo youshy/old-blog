@@ -8,6 +8,8 @@ Apart from writing code as my daily job, I do produce, record, compose and relea
 
 All pics are clickable and will take you places!
 
+---
+
 ## Tap3s
 
 [Spotify](https://open.spotify.com/artist/11snR6DNci1YazNpAzJzSF?si=1V2DFuoIQ7KOztun5ENDMg) 
@@ -26,6 +28,8 @@ Iggy Not Pop x Tap3s -> [Check more here](https://id.ffm.to/powiedzmicos)
 
 Tap3s is a musical partnership between me and my good mate Bartek. We do a lot of alternative sounds. Literally a lot!
 
+---
+
 ## Ogród
 
 [Spotify](https://open.spotify.com/artist/08GCf4AAuCcRxJN32DaFs0?si=nP8ZnJ-6QA-KZ_zcdtWISg)
@@ -42,7 +46,9 @@ That was my songwriter/producer outlet. Both songs are composed, arranged, recor
 
 ---
 
-Everything here is VERY old stuff but I'm very proud of it!
+Everything below the line here is VERY old stuff but I'm very proud of it!
+
+---
 
 ## Ego Trip / Prawo Głosu
 
@@ -62,6 +68,8 @@ Prawo Głosu
 Prawo Głosu Live
 
 [![Prawo Głosu Live](http://img.youtube.com/vi/5ZIxLsQzgi4/0.jpg)](http://www.youtube.com/watch?v=5ZIxLsQzgi4 "Prawo Głosu Live")
+
+---
 
 ## Sunrise Hunters
 
