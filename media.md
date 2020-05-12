@@ -59,6 +59,8 @@ Ego Trip - Miasto Nocą
 #### [Ego Trip's Full Album](https://www.youtube.com/playlist?list=PLywWxNJsXt2Sm3XeFBhZW2JCWplDbVhFJ)
 (Honestly I didn't even know it existed)
 
+For the curious ones - Ego Trip was a band I played with in Polish edition of Must Be The Music. We even got to the finals! I'll leave this breadcrumb for you to follow...
+
 Prawo Głosu
 
 [![Prawo Głosu](http://img.youtube.com/vi/SGs3KmO5ejM/0.jpg)](http://www.youtube.com/watch?v=SGs3KmO5ejM "Prawo Głosu")
