@@ -18,7 +18,7 @@ All pics are clickable and will take you places!
 
 Tap3s - PS4
 
-[![Tap3s - PS4](http://img.youtube.com/vi/xW_buHhVFqw/0.jpg)](http://www.youtube.com/watch?v=xW_buHhVFqw "Tap3s - PS4")
+<a href="http://www.youtube.com/watch?v=xW_buHhVFqw" target="_blank">[![Tap3s - PS4](http://img.youtube.com/vi/xW_buHhVFqw/0.jpg)](http://www.youtube.com/watch?v=xW_buHhVFqw "Tap3s - PS4")</a>
 
 Iggy Not Pop x Tap3s - Powiedz Mi Coś Więcej
 
