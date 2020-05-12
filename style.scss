@@ -274,10 +274,12 @@ nav {
 .post-header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .dated {
   color: $darkGray;
+  margin: 0 0 0 auto;
 }
 
 .wrapper-footer {
