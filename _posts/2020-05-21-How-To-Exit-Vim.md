@@ -7,8 +7,8 @@ How to exit VIM in three simple steps.
 
 Using Go, of course.
 
-1. Make sure you have Go installed.
-2. Write a whole application to find and kill vim:
+* Make sure you have Go installed.
+* Write a whole application to find and kill vim:
 
 ```go
 package main
@@ -62,6 +62,6 @@ func main() {
 }
 ```
 
-3. Run with `go run .` or make executable using `go build -o VimKill`
+* Run with `go run .` or make executable using `go build -o VimKill`
 
 Written by yours truly. Find more ways [here](https://github.com/hakluke/how-to-exit-vim)
