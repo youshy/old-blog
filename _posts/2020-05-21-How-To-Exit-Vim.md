@@ -3,7 +3,7 @@ layout: post
 title: How To Exit Vim
 ---
 
-How to exit VIM in three simple steps.
+How to exit Vim in three simple steps.
 
 Using Go, of course.
 
