@@ -10,9 +10,9 @@ But what if you work in a company, that has a strict rules over which packages c
 
 This article will be the first in a part of articles about how to build a Go CRUD API with Postgres integration using LITERALLY one package from outside world - and that's way easier to pass through the management. Let's go!
 
-This article is best consumed if you attended our last [DevOps Playground](https://www.meetup.com/DevOpsPlayground/events/270672982/) about making Ready-To-Deploy Golang CRUD Api. If you need a refresher, click [HERE](https://github.com/youshy/Hands-On-Ready-To-Deploy-Golang-CRUD-API) and then run both, side by side to see how the approach differs. Or wait till the last part where I'll go almost line-by-line and compare both approaches.
-
 ---
+
+> This article is best consumed if you attended our last [DevOps Playground](https://www.meetup.com/DevOpsPlayground/events/270672982/) about making Ready-To-Deploy Golang CRUD Api. If you need a refresher, click [HERE](https://github.com/youshy/Hands-On-Ready-To-Deploy-Golang-CRUD-API) and then run both, side by side to see how the approach differs. Or wait till the last part where I'll go almost line-by-line and compare both approaches.
 
 TL;DR: Full code available [HERE](https://github.com/youshy/plain-go-crud) - just clone the repo if you want to follow along or fork it and use in your company/for your own fun!
 
