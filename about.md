@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-??? developer (mostly Golang tho), musician, powerlifter, food junkie, teacher, amateur craftsman & baker, human.
+Golang developer, open source contributor, teacher & conference speaker.
+
+Also musician, powerlifter, food junkie, electronics tinkerer, amateur craftsman, baker & pizzaiolo.
+
+But mostly human.
 
 All posts are my personal views, not to be associated with my current employeer.
 
