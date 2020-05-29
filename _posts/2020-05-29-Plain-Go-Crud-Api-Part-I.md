@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plain Go CRUD API: Part I
+title: Plain Go CRUD API Part I
 ---
 
 First of all - thanks to all who has attended the playground! We're trying to find a format that will benefit us all in these new times, and it makes the work 100x better knowing, that what we've prepared works for you! If you want to watch the playground again, [check it on YouTube!](https://www.youtube.com/watch?v=JpznEfXcoe0)
