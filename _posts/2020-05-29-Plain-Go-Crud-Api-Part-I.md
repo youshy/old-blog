@@ -120,6 +120,38 @@ Although that doesn't seem like much, we have:
 * Wrote a skeleton for our server;
 * Wrote checks for env keys we'll use to connect to the database.
 
+Full **main.go** should look like this:
+
+```go
+package main
+
+import (
+	"log"
+	"os"
+)
+
+func main() {
+	a := App{}
+	a.Initialize()
+	a.Run(":9000")
+}
+
+func init() {
+	if ok := os.Getenv("PG_USERNAME"); ok == "" {
+		log.Fatalln("PG_USERNAME not specified")
+	}
+	if ok := os.Getenv("PG_PASSWORD"); ok == "" {
+		log.Fatalln("PG_PASSWORD not specified")
+	}
+	if ok := os.Getenv("PG_DB_NAME"); ok == "" {
+		log.Fatalln("PG_DB_NAME not specified")
+	}
+	if ok := os.Getenv("PG_DB_HOST"); ok == "" {
+		log.Fatalln("PG_DB_HOST_ not specified")
+	}
+}
+```
+
 ## What's next?
 
 In the next part we will deal with setting up the server and it's handlers. If you have any more questions, grab me @ [Twitter](twitter.com/arturkondas) and let's talk!
