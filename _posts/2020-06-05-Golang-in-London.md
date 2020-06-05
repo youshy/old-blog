@@ -7,4 +7,4 @@ I've been awfully quiet this week here, for a good reason. To cut straight to th
 
 No previous Go knowledge needed, we will work it out!
 
-Sign up [here](https://www.meetup.com/Golang-London/events/271102633)
+Sign up [here](https://www.meetup.com/Golang-London/events/271102633)!
