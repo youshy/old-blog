@@ -3,7 +3,8 @@ layout: post
 title: Plain Go Crud Api Part II
 ---
 
-[Part I](https://akondas.com/Plain-Go-Crud-Api-Part-I/) | [Devops Playground Youtube](https://www.youtube.com/watch?v=JpznEfXcoe0)
+Previous parts: [Part I](https://akondas.com/Plain-Go-Crud-Api-Part-I/) 
+Devops Playground on Go: [Youtube](https://www.youtube.com/watch?v=JpznEfXcoe0)
 
 ## Server Logic
 
