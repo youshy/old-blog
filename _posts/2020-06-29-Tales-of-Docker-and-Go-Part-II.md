@@ -12,7 +12,6 @@ Since our last talk about using private repositories with Go Modules, I've been 
 The approach below will be based on Bitbucket, but it should work out-of-the-box for any version control system.
 
 ```docker
-# Build the app
 FROM golang:1.14.2-alpine AS app
 
 ENV GOPRIVATE=bitbucket.org
