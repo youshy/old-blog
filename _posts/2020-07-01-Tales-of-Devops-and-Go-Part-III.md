@@ -84,4 +84,4 @@ Bear in mind - `GIT_PASSWORD` and `GIT_USERNAME` (or the oAuth token) has to be 
 
 In the next part we'll check the setup of SonarCloud to make it all work together!
 
-And if you want to learn why Go is useful when you're doing DevOps, check out my blog post on ECS website - this is what we do daily. And we do it good! Check the blogpost [HERE](https://ecs.co.uk/resources/why-devops-engineers-should-know-go/)! (Also written by yours truly)
+And if you want to learn why Go is useful when you're doing DevOps, check out my blog post on [ECS website](https://ecs.co.uk/resources/why-devops-engineers-should-know-go/) - this is what we do daily. And we do it good! (Post also written by yours truly)
