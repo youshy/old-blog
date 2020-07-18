@@ -63,7 +63,7 @@ defaults:
       type: talks
     values:
       layout: reveal
-      permalink: /talk/:title
+      permalink: /talks/:title
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
