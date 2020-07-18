@@ -3,7 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
-  <div>Testing me</div>
+<div>Testing me</div>
 
 <div class="posts">
   {% for talk in site.talks %}
