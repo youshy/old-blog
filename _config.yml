@@ -59,14 +59,6 @@ defaults:
     values:
       layout: post
       permalink: /blog/:title
-  - scope:
-      type: talks
-    values:
-      layout: reveal
-
-collections:
-  talks:
-    output: true
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
