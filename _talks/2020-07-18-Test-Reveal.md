@@ -1,6 +1,6 @@
 ---
-title: "Week 1: intro"
 layout: reveal
+title: "Week 1: intro"
 ---
 
 ## Intro
