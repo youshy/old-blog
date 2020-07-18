@@ -13,4 +13,6 @@ layout: reveal
 - first, we'll sit in boring lectures...
 - ... then, there will be a huge exam!
 
+_ test
+
 fun times.
