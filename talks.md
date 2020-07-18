@@ -6,6 +6,7 @@ permalink: /talks/
 
 <div class="posts">
   {% for talk in site.talks %}
+  <div>Testing me</div>
     <article class="post">
 
       <div class="post-header">
