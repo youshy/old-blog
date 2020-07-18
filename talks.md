@@ -13,6 +13,10 @@ permalink: /talks/
         <h1><a href="{{ site.baseurl }}{{ talk.url }}">{{ talk.title }}</a></h1>
         <h5 class="dated">{{ post.date | date: "%B %e, %Y" }}<h5>
       </div>
+
+      <div class="entry">
+        {{ talk.summary }}
+      </div>
     </article>
   {% endfor %}
 </div>

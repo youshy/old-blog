@@ -1,6 +1,7 @@
 ---
 layout: reveal
 title: "Test"
+summary: "Intro to Reveal"
 ---
 
 ## Intro
