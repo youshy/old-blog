@@ -1,0 +1,50 @@
+<!-- this is where the reveailfy filter gets applied -->
+{{ content | revealify }}
+
+<!-- load the reveal.js css & js (assuming you've put it in assets/)-->
+<link
+  rel="stylesheet"
+  href="{{site.baseurl}}/assets/reveal.js-4.0.2/css/reveal.css"
+/>
+<link
+  rel="stylesheet"
+  href="{{site.baseurl}}/assets/reveal.js-4.0.2/css/theme/white.css"
+/>
+<script
+  src="{{site.baseurl}}/assets/reveal.js-4.0.2/js/reveal.js"
+  type="text/javascript"
+></script>
+
+<!-- configure the presentation, (you can tweak options to suit) -->
+<script>
+  Reveal.initialize({
+    // Display presentation control arrows
+    controls: true,
+
+    // Help the user learn the controls by providing hints, for example by
+    // bouncing the down arrow when they first encounter a vertical slide
+    controlsTutorial: true,
+
+    // Determines where controls appear, "edges" or "bottom-right"
+    controlsLayout: "bottom-right",
+
+    // Visibility rule for backwards navigation arrows; "faded", "hidden"
+    // or "visible"
+    controlsBackArrows: "faded",
+
+    // Display a presentation progress bar
+    progress: true,
+
+    // Display the page number of the current slide
+    slideNumber: false,
+
+    // Push each slide change to the browser history
+    history: false,
+
+    // Enable keyboard shortcuts for navigation
+    keyboard: true,
+
+    // Enable the slide overview mode
+    overview: true
+  });
+</script>
