@@ -19,8 +19,6 @@ Table of Contents:
 * [Last scene](#Last)
 * [Where to go from now?](#Where)
 
-[Top](#top)
-
 <a name="Intro"/>
 ## Intro
 
@@ -28,11 +26,11 @@ I had always a soft spot for interesting movies. Of course, I like the good stor
 
 One thing that glues all of these movies together is that they do something really fresh from the very beginning - apart of the great story, they push the limit of visual aspect.
 
-And I wanted to do the same with first [ENAE](https://fb.com/enaehq) single. I'm a DIY guy and the visual aspect of things isn't my strongest suit so, being a dev, what can I do?
+And I wanted to do the same with first <a href="https://fb.com/enaehq" target="_blank">ENAE</a> single. I'm a DIY guy and the visual aspect of things isn't my strongest suit so, being a dev, what can I do?
 
 Well, I can program the nerdiest music video you have seen so far.
 
-[^Top](#top)
+[Top](#top)
 
 <a name="Why"/>
 ## Why would you program a music video?
@@ -41,9 +39,9 @@ Because I can.
 
 No, really, this is the major thing why I've done it. I've thought that going nerdy and seeing how far I can push my knowledge about some stuff will be a fun project. Also I needed an excuse to brush off my sight reading and music transcription skills!
 
-Before we go any further, I recommend watching the [music video](https://www.youtube.com/watch?v=-_-2EpUqb9g) so we'll set the playing field - I'll refer to it a few times!
+Before we go any further, I recommend watching <a href="https://www.youtube.com/watch?v=-_-2EpUqb9g" target="_blank">The Video</a>. so we'll set the playing field - I'll refer to it a few times!
 
-[^Top](#top)
+[Go to Top](#top)
 
 <a name="Where"/>
 ## Where to start?
@@ -56,12 +54,12 @@ There's three parts to getting the song ready to be programmed:
 
 I've started mocking the video a long before we've finished the final mix, but I've started actual programming literally the day we've agreed on the mix.
 
-[^Top](#top)
+[Go to Top](#top)
 
 <a name="Sound"/>
 ## Getting the sound
 
-Getting the sound was actually the easiest bit - I've used [Beep by Faiface](github.com/faiface/beep) in it's most raw form:
+Getting the sound was actually the easiest bit - I've used <a href="github.com/faiface/beep" target="_blank">Beep by Faiface</a> in it's most raw form:
 
 **player.go**
 ```go
@@ -102,7 +100,7 @@ func play(done chan bool) {
 
 `done` is the channel I use to notify the main goroutine that play/print has finished. As it's a music video, high-quality mp3 file is sufficient enough to be lightweight and good sounding.
 
-[^Top](#top)
+[Go to Top](#top)
 
 <a name="Print"/>
 ## Getting the first characters to print
@@ -229,7 +227,7 @@ func colourTextRGB(red, green, blue int) {
 
 This is the function I ended up using - I've found a way to print the colours using RGB values - the loading bar you see before the solo starts is done using this magical thing!
 
-[^Top](#top)
+[Go to Top](#top)
 
 <a name="Rhythm"/>
 ## Rhythm
@@ -261,7 +259,7 @@ func verse1() {
 Sometimes some part of the lyrics will have to stay longer than pre-defined note duration. Because notes in the code are `int`, we can add them and then the function takes care of it!
 
 And now,
-[^Top](#top)
+[Go to Top](#top)
 
 <a name="Binary"/>
 ## Binary solo
@@ -307,7 +305,7 @@ Remember at the beginning, I've told that we'd need a sheet music? Without that,
 
 > You might notice, that there's a pointer to `Sized` here - reason for that is, I've iterated over multiple versions of the solo and thought the one now is the best looking one. In case someone would like to print it anywhere else on the screen, they can, because they know the terminal size already!
 
-[^Top](#top)
+[Go to Top](#top)
 
 <a name="Last"/>
 ## Last scene
@@ -432,7 +430,7 @@ So, there's the magic to the system - I've used the functions I've prepped befor
 
 Each time it takes only one step and then rests for 5 milliseconds. This way, I'm sure it'll destroy a lot of stuff, but not all.
 
-[^Top](#top)
+[Go to Top](#top)
 
 <a name="Where"/>
 ## Where to go from now?
@@ -445,6 +443,4 @@ If I would do it again, what I would change:
 * Even more modular code - what if I want to have Star-Wars-esque solo part?
 * Less noise in the code - a lot of stuff I've left off because I wasn't sure if I will use them again. It's more of a wireframe for the next videos now.
 
-Thank you for reading! Give us a [like](https://www.youtube.com/watch?v=-_-2EpUqb9g) or [subscribe](https://www.youtube.com/channel/UCKjavmoQAboXOBpPEBp5UHw?sub_confirmation=1) or come to [facebook](https://fb.com/enaehq) or - even better - do all of these things!
-
-[^Top](#top)
+Thank you for reading! Give us a <a href="https://www.youtube.com/watch?v=-_-2EpUqb9g" target="_blank">like</a> or <a href="https://www.youtube.com/channel/UCKjavmoQAboXOBpPEBp5UHw?sub_confirmation=1" target="_blank">subscribe</a> or come to <a href="https://fb.com/enaehq" target="_blank">facebook</a> or - even better - do all of these things!
