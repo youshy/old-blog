@@ -256,8 +256,9 @@ func verse1() {
 
 Sometimes some part of the lyrics will have to stay longer than pre-defined note duration. Because notes in the code are `int`, we can add them and then the function takes care of it!
 
-And now,
 [Go to Top](#top)
+
+And now,
 
 <a name="Binary"/>
 ## Binary solo
