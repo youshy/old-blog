@@ -3,7 +3,7 @@ layout: post
 title: How To Write A Music Video In Go
 ---
 
-TL;DR: My band [ENAE](https://fb.com/enaehq) has released a first single, called [The System](https://www.youtube.com/watch?v=-_-2EpUqb9g). Song is 100% DIY (from writing to recording to mixing to producing to releasing) and the music video is written 100% in Go!
+TL;DR: My band <a href="https://fb.com/enaehq" target="_blank">ENAE</a> has released a first single, called <a href="https://www.youtube.com/watch?v=-_-2EpUqb9g" target="_blank">The System</a>. Song is 100% DIY (from writing to recording to mixing to producing to releasing) and the music video is written 100% in Go!
 
 <a name="top">
 
@@ -19,7 +19,7 @@ Table of Contents:
 * [Last scene](#Last)
 * [Where to go from now?](#Where)
 
-[^Top](#top)
+[Top](#top)
 
 <a name="Intro"/>
 ## Intro
