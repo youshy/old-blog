@@ -30,8 +30,6 @@ And I wanted to do the same with first <a href="https://fb.com/enaehq" target="_
 
 Well, I can program the nerdiest music video you have seen so far.
 
-[Top](#top)
-
 <a name="Why"/>
 ## Why would you program a music video?
 
