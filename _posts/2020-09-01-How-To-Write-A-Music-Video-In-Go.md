@@ -57,7 +57,7 @@ I've started mocking the video a long before we've finished the final mix, but I
 <a name="Sound"/>
 ## Getting the sound
 
-Getting the sound was actually the easiest bit - I've used <a href="github.com/faiface/beep" target="_blank">Beep by Faiface</a> in it's most raw form:
+Getting the sound was actually the easiest bit - I've used <a href="https://github.com/faiface/beep" target="_blank">Beep by Faiface</a> in it's most raw form:
 
 **player.go**
 ```go
