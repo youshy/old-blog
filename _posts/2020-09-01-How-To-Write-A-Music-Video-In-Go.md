@@ -22,7 +22,7 @@ Table of Contents:
 <a name="Intro"/>
 ## Intro
 
-I had always a soft spot for interesting movies. Of course, I like the good story as much as the next guy, but the visual aspect can make me fall in love with a movie. I won't even count how many times I've watched Guy Richie's Sherlock Holmes (both movies actually), What We Do In The Shadows, Blade Runner or anything by Quentin Tarantino. 
+I always had a soft spot for interesting movies. Of course, I like the good story as much as the next guy, but the visual aspect can make me fall in love with a movie. I won't even count how many times I've watched Guy Richie's Sherlock Holmes (both movies actually), What We Do In The Shadows, Blade Runner or anything by Quentin Tarantino. 
 
 One thing that glues all of these movies together is that they do something really fresh from the very beginning - apart of the great story, they push the limit of visual aspect.
 
