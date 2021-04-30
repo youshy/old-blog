@@ -3,7 +3,7 @@ layout: post
 title: Baby Steps Part II
 ---
 
-Previous parts: [Part I](https://akondas.com/Baby-Steps-Part-I/)
+Previous parts: [Part I](https://akondas.com/blog/Baby-Steps-Part-I)
 
 Last time we've talked about how to start contributing to Open Source - and to reinforce my statement, I've started contributing to a relatively new library for supporting Chrome headless browser called [Rod](https://github.com/ysmood/rod) and came back to my contributions to [Go-Audio](https://github.com/go-audio).
 

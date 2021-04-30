@@ -3,7 +3,7 @@ layout: post
 title: Plain Go Crud Api Part II
 ---
 
-Previous parts: [Part I](https://akondas.com/Plain-Go-Crud-Api-Part-I/) 
+Previous parts: [Part I](https://akondas.com/blog/Plain-Go-Crud-Api-Part-I) 
 Devops Playground on Go: [Youtube](https://www.youtube.com/watch?v=JpznEfXcoe0)
 
 ## Server Logic

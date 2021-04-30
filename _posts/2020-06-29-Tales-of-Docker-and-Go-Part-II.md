@@ -3,7 +3,7 @@ layout: post
 title: Tales of Docker and Go Part II
 ---
 
-Previous parts: [Part I](https://akondas.com/Tales-of-Docker-and-Go,-Part-I-Private/)
+Previous parts: [Part I](https://akondas.com/blog/Tales-of-Docker-and-Go,-Part-I-Private)
 
 ## How to use Docker and Go Modules with private repos?
 

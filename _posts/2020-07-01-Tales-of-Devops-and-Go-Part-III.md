@@ -4,8 +4,8 @@ title: Tales of Devops and Go Part III
 ---
 
 Previous parts:
-* [Part I](https://akondas.com/Tales-of-Docker-and-Go,-Part-I-Private/)
-* [Part II](https://akondas.com/Tales-of-Docker-and-Go-Part-II/)
+* [Part I](https://akondas.com/blog/Tales-of-Docker-and-Go,-Part-I-Private)
+* [Part II](https://akondas.com/blog/Tales-of-Docker-and-Go-Part-II)
 
 As you've probably figured out from the title, I've renamed my small series `Tales of Docker and Go` to `Tales of Devops and Go`. Why is that? As I'm branching out to setting up more stuff from ground up, I think that going with more **DevOps** route will be better than narrowing ourselves down to Docker only.
 
