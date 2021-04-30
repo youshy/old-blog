@@ -10,10 +10,10 @@ If you need to recap what we've went through, go [HERE](https://github.com/yoush
 I've been mentioning a bit about other uses of Go in production environment, if you want to learn more then check:
 
 * [How to build a Ready-To-Deploy Go CRUD API](https://github.com/youshy/Hands-On-Ready-To-Deploy-Golang-CRUD-API)
-* How to build the same API but with literally 1 dependency - [Part I](https://akondas.com/Plain-Go-Crud-Api-Part-I/), [Part II](https://akondas.com/Plain-Go-Crud-Api-Part-II/), Part III to come
-* [How to exit VIM in a really obscene way using Go](https://akondas.com/How-To-Exit-Vim/)
-* [How to create a Dockerimage for your Go app if you're not using Go Modules](https://akondas.com/Tales-of-Docker-and-Go,-Part-I-Private/)
-* [How to write a CLI to blog automatically](https://akondas.com/Blogging-automatically/) (I use this one daily - used this to write this post!)
+* How to build the same API but with literally 1 dependency - [Part I](https://akondas.com/blog/Plain-Go-Crud-Api-Part-I/), [Part II](https://akondas.com/blog/Plain-Go-Crud-Api-Part-II/), Part III to come
+* [How to exit VIM in a really obscene way using Go](https://akondas.com/blog/How-To-Exit-Vim/)
+* [How to create a Dockerimage for your Go app if you're not using Go Modules](https://akondas.com/blog/Tales-of-Docker-and-Go,-Part-I-Private/)
+* [How to write a CLI to blog automatically](https://akondas.com/blog/Blogging-automatically/) (I use this one daily - used this to write this post!)
 
 There's more from where this meetup came from, stay tuned!
 
