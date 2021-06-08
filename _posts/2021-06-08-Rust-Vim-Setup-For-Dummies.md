@@ -14,8 +14,9 @@ I'll try to be as quick as possible here:
 3. Install [coc](https://github.com/neoclide/coc.nvim) with your favourite [plugin manager](https://github.com/junegunn/vim-plug)
 4. Install [Rust-analyzer](https://rust-analyzer.github.io/manual.html#rust-analyzer-language-server-binary)
 5. Run in Vim: `CocInstall coc-rust-analyzer` - more info [here](https://rust-analyzer.github.io/manual.html#vimneovim)
+6. Add `let g:rustfmt_autosave = 1` to your `.vimrc` to run `rustfmt` (autoformatting) on save
 
 At step 5, Vim might ask you to install some extra stuff - just roll with it!
 
-If you have any questions, suggestions or anything else - grab me on [linkedin](https://www.linkedin.com/in/arturkondas/)
+If you have any questions, suggestions or anything else - grab me on [linkedin](https://www.linkedin.com/in/arturkondas/)!
 
